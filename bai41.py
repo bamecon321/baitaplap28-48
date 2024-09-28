@@ -5,7 +5,7 @@ Created on Tue Sep 24 23:37:15 2024
 @author: ACER
 """
 
-S = 1
+S = 0
 n = int(input("nhập n: "))
 while n<0: 
     n = int(input("nhập lại: "))

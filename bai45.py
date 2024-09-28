@@ -11,6 +11,7 @@ s=0
 n = int(input("Nhap n: "))
 while n <= 0:
     n = int(input("Nhap lai n: "))
+x = float(input("Nhap x: "))
     for i in range(1,n+1):
         tu_so = n**i
         mau_so = mau_so + i
